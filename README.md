@@ -12,7 +12,7 @@ Check out [API LIVE DEMO](https://budgetboxbackend.khantaufeeq.repl.co/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/Manikantatechis/Budget-Box.git
+git clone https://github.com/KhanTaufeeq/Budget-Box.git 
 ```
 2. Backend setting
 ```
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
-# Open http://127.0.0.1:8000/posts/
+# Open http://127.0.0.1:8000/
 ```
 3. Frontend setting
 ```

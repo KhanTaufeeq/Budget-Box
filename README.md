@@ -2,8 +2,8 @@
 ```
 Budget Box App, with a frontend built in React & Redux and a backend built in Django API.
 ```
-Check out [FRONTEND LIVE DEMO](https://taufeeq-budgetbox.netlify.app/) here!!
-Check out [API LIVE DEMO](https://budgetboxbackend-da42.onrender.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://taufeeq-budget-box.netlify.app/) here!!
+Check out [API LIVE DEMO](https://budget-box-backend-na4v.onrender.com) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
